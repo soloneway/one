@@ -1,0 +1,314 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Taiwan",JingYanTai
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/87.ts
+
+#EXTINF:-1 group-title="Taiwan",PanDora
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/86.ts
+
+#EXTINF:-1 group-title="Taiwan",SongShi1
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/88.ts
+
+#EXTINF:-1 group-title="Taiwan",SongShi2
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/89.ts
+
+#EXTINF:-1 group-title="Taiwan",SongShi3
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
+
+#EXTINF:-1 group-title="Taiwan",XiangJiao
+http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.ts
+#EXTINF:-1 group-title="Unsorted",Unknown_Channel
+
+#EXTINF:-1 group-title="UK Sport",Sky Sports News HD [UK]
+https://ru02.plink-pile.ch/24222/mpegts?token=yhhqBUmACfyrEu
+
+#EXTINF:-1 group-title="UK Sport",Sky Sports Main Event HD [UK]
+https://ru02.plink-pile.ch/24224/mpegts?token=yhhqBUmACfyrEu
+
+#EXTINF:-1 group-title="UK Sport",Sky Sports Premiere League HD [UK]
+https://ru02.plink-pile.ch/24226/mpegts?token=yhhqBUmACfyrEu
+
+#EXTINF:-1 group-title="UK Sport",Sky Sports Football HD [UK]
+https://ru02.plink-pile.ch/24228/mpegts?token=yhhqBUmACfyrEu
+
+#EXTINF:-1 group-title="UK Sport",Sky Sports Action HD [UK]
+https://ru02.plink-pile.ch/24231/mpegts?token=yhhqBUmACfyrEu
+
+#EXTINF:-1 group-title="UK Sport",Sky Sports Cricket HD [UK]
+https://ru02.plink-pile.ch/24234/mpegts?token=yhhqBUmACfyrEu
+
+#EXTINF:-1 group-title="UK Sport",Sky Sports Golf HD [UK]
+https://ru02.plink-pile.ch/24239/mpegts?token=yhhqBUmACfyrEu
+
+#EXTINF:-1 group-title="UK Sport",Sky Sports F1 HD [UK]
+https://ru02.plink-pile.ch/24236/mpegts?token=yhhqBUmACfyrEu
+
+#EXTINF:-1 group-title="UK Sport",Sky Sports Mix HD [UK]
+https://ru02.plink-pile.ch/24240/mpegts?token=yhhqBUmACfyrEu
+
+#EXTINF:-1 group-title="UK Sport",Sky Sports Racing HD [UK]
+https://ru02.plink-pile.ch/24411/mpegts?token=yhhqBUmACfyrEu
+
+#EXTINF:-1 group-title="UK Sport",Sky Sports Tennis [UK]
+https://ru02.plink-pile.ch/22558/mpegts?token=yhhqBUmACfyrEu
+
+#EXTINF:-1 group-title="UK Sport",TNT Sports 1 HD [UK]
+https://ru02.plink-pile.ch/24243/mpegts?token=yhhqBUmACfyrEu
+
+#EXTINF:-1 group-title="UK Sport",TNT Sports 2 HD [UK]
+https://ru02.plink-pile.ch/24245/mpegts?token=yhhqBUmACfyrEu
+
+#EXTINF:-1 group-title="UK Sport",TNT Sports 3 HD [UK]
+https://ru02.plink-pile.ch/24248/mpegts?token=yhhqBUmACfyrEu
+
+#EXTINF:-1 group-title="UK Sport",TNT Sports 4 HD [UK]
+https://ru02.plink-pile.ch/24251/mpegts?token=yhhqBUmACfyrEu
+
+#EXTINF:-1 group-title="UK Sport",Premier Sports 1 HD [UK]
+https://ru02.plink-pile.ch/24259/mpegts?token=yhhqBUmACfyrEu
+
+#EXTINF:-1 group-title="UK Sport",Premier Sports 2 HD [UK]
+https://ru02.plink-pile.ch/24260/mpegts?token=yhhqBUmACfyrEu
+
+#EXTINF:-1 group-title="UK Sport",Nba Tv [US]
+https://ru02.plink-pile.ch/22569/mpegts?token=yhhqBUmACfyrEu
+
+#EXTINF:-1 group-title="UK Sport",Fox Sport 1 Hd [US]
+https://ru02.plink-pile.ch/22571/mpegts?token=yhhqBUmACfyrEu
+
+#EXTINF:-1 group-title="UK Sport",NHL Network USA [US]
+https://ru02.plink-pile.ch/24451/mpegts?token=yhhqBUmACfyrEu
+
+#EXTINF:-1 group-title="UK Sport",WWE NETWORK [US]
+https://ru02.plink-pile.ch/24266/mpegts?token=yhhqBUmACfyrEu
+#EXTINF:-1 group-title="UK Sport",SporTV 2 HD [BR]
+http://177.52.24.163/SPORTV-2-HD/index.m3u8
+
+
+#EXTINF:-1 group-title="卫视",安徽卫视
+http://39.165.39.49:19901/tsfile/live/1134_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视",湖南卫视
+http://39.165.39.49:19901/tsfile/live/1140_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视",金鹰卡通
+http://39.165.39.49:19901/tsfile/live/1156_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视",嘉佳卡通
+http://39.165.39.49:19901/tsfile/live/1157_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视",卡酷动画
+http://39.165.39.49:19901/tsfile/live/1158_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视",优漫卡通
+http://39.165.39.49:19901/tsfile/live/1092_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视",文体旅游
+http://39.165.39.49:19901/tsfile/live/1094_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视",都市频道
+http://39.165.39.49:19901/tsfile/live/1106_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视",民生频道
+http://39.165.39.49:19901/tsfile/live/1109_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视",法制频道
+http://39.165.39.49:19901/tsfile/live/1110_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视",电视剧频
+http://39.165.39.49:19901/tsfile/live/1111_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视",新闻频道
+http://39.165.39.49:19901/tsfile/live/1112_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视",公共频道
+http://39.165.39.49:19901/tsfile/live/1114_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视",快乐垂钓
+http://39.165.39.49:19901/tsfile/live/1115_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视",戏曲频道
+http://39.165.39.49:19901/tsfile/live/1118_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视",文物宝库
+http://39.165.39.49:19901/tsfile/live/1119_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视",武术世界
+http://39.165.39.49:19901/tsfile/live/1121_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视",风尚河南
+http://39.165.39.49:19901/tsfile/live/1125_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="卫视",全纪实频道
+http://39.165.39.49:19901/tsfile/live/1126_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="极速港澳",凤凰中文
+http://49.232.143.177:80/pyxg/hmy.php?id=鳳凰中文備&key=***
+#EXTINF:-1 group-title="极速港澳",凤凰资讯
+http://49.232.143.177:80/pyxg/hmy.php?id=鳳凰資訊備&key=***
+#EXTINF:-1 group-title="极速港澳",凤凰香港
+http://49.232.143.177:80/pyxg/hmy.php?id=鳳凰香港&key=***
+#EXTINF:-1 group-title="极速港澳",翡翠台
+http://49.232.143.177:80/pyxg/hmy.php?id=翡翠台備&key=***
+#EXTINF:-1 group-title="极速港澳",無綫新聞
+http://49.232.143.177:80/pyxg/hmy.php?id=無綫新聞備&key=***
+#EXTINF:-1 group-title="极速港澳",ViUTV
+http://49.232.143.177:80/pyxg/hmy.php?id=ViUTV&key=***
+#EXTINF:-1 group-title="极速港澳",ViUTVSix
+http://49.232.143.177:80/pyxg/hmy.php?id=ViUTVSix&key=***
+#EXTINF:-1 group-title="极速港澳",HOYTV
+http://49.232.143.177:80/pyxg/hmy.php?id=HOYTV&key=***
+#EXTINF:-1 group-title="极速港澳",HOY資訊台
+http://49.232.143.177:80/pyxg/hmy.php?id=HOY資訊台&key=***
+#EXTINF:-1 group-title="极速港澳",HOY財經台
+http://49.232.143.177:80/pyxg/hmy.php?id=HOY財經台&key=***
+#EXTINF:-1 group-title="极速港澳",Now新聞台
+http://49.232.143.177:80/pyxg/hmy.php?id=Now新聞台&key=***
+#EXTINF:-1 group-title="极速港澳",Now財經台
+http://49.232.143.177:80/pyxg/hmy.php?id=Now財經台&key=***
+#EXTINF:-1 group-title="极速港澳",天映經典
+http://49.232.143.177:80/pyxg/hmy.php?id=天映經典&key=***
+#EXTINF:-1 group-title="极速港澳",美亚电影台
+http://49.232.143.177:80/pyxg/hmy.php?id=美亚电影台&key=***
+#EXTINF:-1 group-title="极速港澳",POPC
+http://49.232.143.177:80/pyxg/hmy.php?id=POPC&key=***
+#EXTINF:-1 group-title="极速港澳",中國電影
+http://49.232.143.177:80/pyxg/hmy.php?id=中國電影&key=***
+#EXTINF:-1 group-title="极速港澳",中視
+http://49.232.143.177:80/pyxg/hmy.php?id=中視&key=***
+#EXTINF:-1 group-title="极速港澳",華視
+http://49.232.143.177:80/pyxg/hmy.php?id=華視&key=***
+#EXTINF:-1 group-title="极速港澳",民視
+http://49.232.143.177:80/pyxg/hmy.php?id=民視_1&key=***
+#EXTINF:-1 group-title="极速港澳",民視台灣
+http://49.232.143.177:80/pyxg/hmy.php?id=民視台灣&key=***
+#EXTINF:-1 group-title="极速港澳",民視第一
+http://49.232.143.177:80/pyxg/hmy.php?id=民視第一&key=***
+#EXTINF:-1 group-title="极速港澳",台視
+http://49.232.143.177:80/pyxg/hmy.php?id=台視&key=***
+#EXTINF:-1 group-title="极速港澳",台視綜合
+http://49.232.143.177:80/pyxg/hmy.php?id=台視綜合&key=***
+#EXTINF:-1 group-title="极速港澳",公視
+http://49.232.143.177:80/pyxg/hmy.php?id=公視&key=***
+#EXTINF:-1 group-title="极速港澳",中天綜合
+http://49.232.143.177:80/pyxg/hmy.php?id=中天綜合&key=***
+#EXTINF:-1 group-title="极速港澳",八大綜合
+http://49.232.143.177:80/pyxg/hmy.php?id=八大綜合&key=***
+#EXTINF:-1 group-title="极速港澳",八大第一
+http://49.232.143.177:80/pyxg/hmy.php?id=八大第一&key=***
+#EXTINF:-1 group-title="极速港澳",東森綜合
+http://49.232.143.177:80/pyxg/hmy.php?id=東森綜合&key=***
+#EXTINF:-1 group-title="极速港澳",東森電影
+http://49.232.143.177:80/pyxg/hmy.php?id=東森電影&key=***
+#EXTINF:-1 group-title="极速港澳",緯來電影
+http://49.232.143.177:80/pyxg/hmy.php?id=緯來電影&key=***
+#EXTINF:-1 group-title="极速港澳",三立都會
+http://49.232.143.177:80/pyxg/hmy.php?id=三立都會&key=***
+#EXTINF:-1 group-title="极速港澳",三立台灣
+http://49.232.143.177:80/pyxg/hmy.php?id=三立台灣&key=***
+#EXTINF:-1 group-title="极速港澳",龍華偶像
+http://49.232.143.177:80/pyxg/hmy.php?id=龍華偶像&key=***
+#EXTINF:-1 group-title="极速港澳",龍華電影
+http://49.232.143.177:80/pyxg/hmy.php?id=龍華電影&key=***
+#EXTINF:-1 group-title="极速港澳",龍華經典
+http://49.232.143.177:80/pyxg/hmy.php?id=龍華經典&key=***
+#EXTINF:-1 group-title="极速港澳",好萊塢電影
+http://49.232.143.177:80/pyxg/hmy.php?id=好萊塢電影&key=***
+#EXTINF:-1 group-title="极速港澳",TVBS
+http://49.232.143.177:80/pyxg/hmy.php?id=TVBS備&key=***
+#EXTINF:-1 group-title="极速港澳",中天新聞
+http://49.232.143.177:80/pyxg/hmy.php?id=中天新聞備&key=***
+#EXTINF:-1 group-title="极速港澳",東森新聞
+http://49.232.143.177:80/pyxg/hmy.php?id=東森新聞備&key=***
+#EXTINF:-1 group-title="极速港澳",華視新聞
+http://49.232.143.177:80/pyxg/hmy.php?id=華視新聞&key=***
+#EXTINF:-1 group-title="极速港澳",中視新聞
+http://49.232.143.177:80/pyxg/hmy.php?id=中視新聞&key=***
+#EXTINF:-1 group-title="极速港澳",台視新聞
+http://49.232.143.177:80/pyxg/hmy.php?id=台視新聞&key=***
+#EXTINF:-1 group-title="极速港澳",TVBS新聞
+http://49.232.143.177:80/pyxg/hmy.php?id=TVBS新聞&key=***
+#EXTINF:-1 group-title="极速港澳",三立新聞
+http://49.232.143.177:80/pyxg/hmy.php?id=三立新聞&key=***
+#EXTINF:-1 group-title="极速港澳",年代新聞
+http://49.232.143.177:80/pyxg/hmy.php?id=年代新聞&key=***
+#EXTINF:-1 group-title="极速港澳",壹新聞
+http://49.232.143.177:80/pyxg/hmy.php?id=壹新聞&key=***
+#EXTINF:-1 group-title="极速港澳",非凡新聞
+http://49.232.143.177:80/pyxg/hmy.php?id=非凡新聞&key=***
+#EXTINF:-1 group-title="极速港澳",環宇台灣
+http://49.232.143.177:80/pyxg/hmy.php?id=環宇台灣&key=***
+#EXTINF:-1 group-title="极速港澳",緯來體育
+http://49.232.143.177:80/pyxg/hmy.php?id=緯來體育&key=***
+#EXTINF:-1 group-title="极速港澳",NBATV
+http://49.232.143.177:80/pyxg/hmy.php?id=NBATV&key=***
+#EXTINF:-1 group-title="体育",CCTV-5体育
+http://49.232.143.177:80/yt.php?l=0&type=play&id=cctv5
+#EXTINF:-1 group-title="体育",CCTV-5体育
+http://49.232.143.177:80/yt.php?l=1&type=play&id=cctv5
+#EXTINF:-1 group-title="体育",CCTV-17农业农村
+http://49.232.143.177:80/yt.php?l=0&type=play&id=cctv17
+#EXTINF:-1 group-title="体育",CCTV-17农业农村
+http://49.232.143.177:80/yt.php?l=1&type=play&id=cctv17
+#EXTINF:-1 group-title="体育",四海钓鱼
+http://49.232.143.177:80/yt.php?l=0&type=play&id=shdy
+#EXTINF:-1 group-title="体育",四海钓鱼
+http://49.232.143.177:80/yt.php?l=1&type=play&id=shdy
+#EXTINF:-1 group-title="体育",劲爆体育
+http://49.232.143.177:80/yt.php?l=0&type=play&id=jbty
+#EXTINF:-1 group-title="体育",劲爆体育
+http://49.232.143.177:80/yt.php?l=1&type=play&id=jbty
+#EXTINF:-1 group-title="体育",游戏风云
+http://49.232.143.177:80/yt.php?l=0&type=play&id=yxfy
+#EXTINF:-1 group-title="体育",游戏风云
+http://49.232.143.177:80/yt.php?l=1&type=play&id=yxfy
+#EXTINF:-1 group-title="体育",体坛名栏汇
+http://49.232.143.177:80/yt.php?l=0&type=play&id=mg265218759
+#EXTINF:-1 group-title="体育",体坛名栏汇
+http://49.232.143.177:80/yt.php?l=1&type=play&id=mg265218759
+#EXTINF:-1 group-title="体育",赛事最经典
+http://49.232.143.177:80/yt.php?l=0&type=play&id=mg265218921
+#EXTINF:-1 group-title="体育",赛事最经典
+http://49.232.143.177:80/yt.php?l=1&type=play&id=mg265218921
+#EXTINF:-1 group-title="体育",足球频道
+http://49.232.143.177:80/yt.php?l=0&type=play&id=mg291879018
+#EXTINF:-1 group-title="体育",足球频道
+http://49.232.143.177:80/yt.php?l=1&type=play&id=mg291879018
+#EXTINF:-1 group-title="影视",CCTV-8电视剧
+http://49.232.143.177:80/yt.php?l=0&type=play&id=cctv8
+#EXTINF:-1 group-title="影视",CCTV-8电视剧
+http://49.232.143.177:80/yt.php?l=1&type=play&id=cctv8
+#EXTINF:-1 group-title="影视",CCTV-11戏曲
+http://49.232.143.177:80/yt.php?l=0&type=play&id=cctv11
+#EXTINF:-1 group-title="影视",CCTV-11戏曲
+http://49.232.143.177:80/yt.php?l=1&type=play&id=cctv11
+#EXTINF:-1 group-title="影视",东方影视
+http://49.232.143.177:80/yt.php?l=0&type=play&id=shdsj
+#EXTINF:-1 group-title="影视",东方影视
+http://49.232.143.177:80/yt.php?l=1&type=play&id=shdsj
+#EXTINF:-1 group-title="影视",欢笑剧场
+http://49.232.143.177:80/yt.php?l=0&type=play&id=hxjc
+#EXTINF:-1 group-title="影视",欢笑剧场
+http://49.232.143.177:80/yt.php?l=1&type=play&id=hxjc
+#EXTINF:-1 group-title="影视",高清大片
+http://49.232.143.177:80/yt.php?l=0&type=play&id=mg265218862
+#EXTINF:-1 group-title="影视",高清大片
+http://49.232.143.177:80/yt.php?l=1&type=play&id=mg265218862
+#EXTINF:-1 group-title="影视",追剧少女
+http://49.232.143.177:80/yt.php?l=0&type=play&id=mg265218878
+#EXTINF:-1 group-title="影视",追剧少女
+http://49.232.143.177:80/yt.php?l=1&type=play&id=mg265218878
+#EXTINF:-1 group-title="影视",新片放映厅
+http://49.232.143.177:80/yt.php?l=0&type=play&id=mg265218930
+#EXTINF:-1 group-title="影视",新片放映厅
+http://49.232.143.177:80/yt.php?l=1&type=play&id=mg265218930
+#EXTINF:-1 group-title="影视",热剧联播
+http://49.232.143.177:80/yt.php?l=0&type=play&id=mg265218955
+#EXTINF:-1 group-title="影视",热剧联播
+http://49.232.143.177:80/yt.php?l=1&type=play&id=mg265218955
+#EXTINF:-1 group-title="影视",云上电影院
+http://49.232.143.177:80/yt.php?l=0&type=play&id=mg265219029
+#EXTINF:-1 group-title="影视",云上电影院
+http://49.232.143.177:80/yt.php?l=1&type=play&id=mg265219029
+#EXTINF:-1 group-title="影视",TVB剧场
+http://49.232.143.177:80/yt.php?l=0&type=play&id=mg265667449
+#EXTINF:-1 group-title="影视",TVB剧场
+http://49.232.143.177:80/yt.php?l=1&type=play&id=mg265667449
+#EXTINF:-1 group-title="影视",成龙作品集
+http://49.232.143.177:80/yt.php?l=0&type=play&id=mg265667553
+#EXTINF:-1 group-title="影视",成龙作品集
+http://49.232.143.177:80/yt.php?l=1&type=play&id=mg265667553
+#EXTINF:-1 group-title="动漫",CCTV-14少儿
+http://49.232.143.177:80/yt.php?l=0&type=play&id=cctv14
+#EXTINF:-1 group-title="动漫",CCTV-14少儿
+http://49.232.143.177:80/yt.php?l=1&type=play&id=cctv14
+#EXTINF:-1 group-title="动漫",海南少儿
+http://49.232.143.177:80/yt.php?l=0&type=play&id=hiqs
+#EXTINF:-1 group-title="动漫",海南少儿
+http://49.232.143.177:80/yt.php?l=1&type=play&id=hiqs
+#EXTINF:-1 group-title="动漫",浙江少儿
+http://49.232.143.177:80/yt.php?l=0&type=play&id=zjtv8
+#EXTINF:-1 group-title="动漫",浙江少儿
+http://49.232.143.177:80/yt.php?l=1&type=play&id=zjtv8
+
