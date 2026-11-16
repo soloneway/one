@@ -17,8 +17,6 @@ http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/90.ts
 
 #EXTINF:-1 group-title="Taiwan",XiangJiao
 http://15.204.105.50:25461/live/G2s9zK2n9m/xDtwVfWM8T/117.ts
-#EXTINF:-1 group-title="Unsorted",Unknown_Channel
-
 #EXTINF:-1 group-title="UK Sport",Sky Sports News HD [UK]
 https://ru02.plink-pile.ch/24222/mpegts?token=yhhqBUmACfyrEu
 
@@ -81,9 +79,6 @@ https://ru02.plink-pile.ch/24451/mpegts?token=yhhqBUmACfyrEu
 
 #EXTINF:-1 group-title="UK Sport",WWE NETWORK [US]
 https://ru02.plink-pile.ch/24266/mpegts?token=yhhqBUmACfyrEu
-#EXTINF:-1 group-title="UK Sport",SporTV 2 HD [BR]
-http://177.52.24.163/SPORTV-2-HD/index.m3u8
-
 
 #EXTINF:-1 group-title="卫视",安徽卫视
 http://39.165.39.49:19901/tsfile/live/1134_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -311,4 +306,3 @@ http://49.232.143.177:80/yt.php?l=1&type=play&id=hiqs
 http://49.232.143.177:80/yt.php?l=0&type=play&id=zjtv8
 #EXTINF:-1 group-title="动漫",浙江少儿
 http://49.232.143.177:80/yt.php?l=1&type=play&id=zjtv8
-
